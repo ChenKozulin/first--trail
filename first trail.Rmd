@@ -1,0 +1,16 @@
+---
+title: "first_trail"
+author: "ChenKozulin"
+date: "8 בנובמבר 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+> ex.1 <- read.csv("ex1.csv")
+> ex.1
+
+> hist(ex.1$height)
